@@ -1,5 +1,6 @@
 #!/bin/bash
 
+<<<<<<< HEAD
 # Developed by Air
 
 # Function to detect external drives
@@ -21,3 +22,6 @@ detect_drives(){
 }
 
 detect_drives
+=======
+
+>>>>>>> af2ab33722efe2fea3a9e033ead52fed066537a5
