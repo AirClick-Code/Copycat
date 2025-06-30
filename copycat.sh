@@ -70,7 +70,6 @@ if [ ! -d "$DEST_DIR" ]; then
     fi
 fi
 
-# Generate archive name
 ARCHIVE_NAME="$(basename "$SOURCE_DIR")_$(date +%Y%m%d).tar.gz"
 ARCHIVE_PATH="$DEST_DIR/$ARCHIVE_NAME"
 
